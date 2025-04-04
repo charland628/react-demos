@@ -1,0 +1,14 @@
+.inputGroup {
+    margin: 10px 0;
+}
+
+.inputGroup label {
+    font-weight: bold;
+}
+
+.inputGroup input {
+    width: 95%;
+    border: 2px solid navy;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}

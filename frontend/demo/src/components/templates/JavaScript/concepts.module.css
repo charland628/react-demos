@@ -1,0 +1,24 @@
+.container {
+    background-color: rgb(196, 229, 238);
+    border: none;
+    padding: 20px;
+}
+
+.summary {
+    margin: 20px 0px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-style: double;
+    padding: 5px;
+    text-align: justify;
+}
+
+.fieldset {
+    border: 4px solid navy;
+}
+
+.legend {
+    font-weight: bold;
+    color: navy;
+}

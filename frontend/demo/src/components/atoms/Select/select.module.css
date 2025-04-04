@@ -1,0 +1,14 @@
+.selectGroup {
+    margin: 10px 0;
+}
+
+.selectGroup label {
+    font-weight: bold;
+}
+
+.selectGroup select {
+    width: 100%;
+    border: 2px solid navy;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}

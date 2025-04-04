@@ -1,0 +1,11 @@
+button {
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.fullWidth {
+    width: 100%;
+}
